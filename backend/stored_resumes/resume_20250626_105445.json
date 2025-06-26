@@ -1,0 +1,56 @@
+{
+  "personal_info": {
+    "fullName": "Priya Mahato",
+    "email": "john.doe@email.com",
+    "phone": "+1 (555) 123-4567",
+    "location": "San Francisco, CA",
+    "linkedin": "https://linkedin.com/in/johndoe",
+    "website": "https://johndoe.dev"
+  },
+  "experience": [
+    {
+      "id": "1",
+      "title": "Senior Software Engineer",
+      "company": "Tech Solutions Inc.",
+      "location": "San Francisco, CA",
+      "startDate": "2021-03",
+      "endDate": "",
+      "current": true,
+      "description": "\u2022 Spearheaded led development of scalable web applications serving 100k+ users. mentored junior developers and improved deployment efficiency by 40%."
+    }
+  ],
+  "education": [
+    {
+      "id": "1",
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "University of California, Berkeley",
+      "location": "Berkeley, CA",
+      "graduationDate": "2019-05",
+      "gpa": "3.8/4.0",
+      "honors": "Magna Cum Laude"
+    }
+  ],
+  "skills": [
+    {
+      "id": "1",
+      "name": "JavaScript",
+      "category": "technical",
+      "proficiency": "expert"
+    },
+    {
+      "id": "2",
+      "name": "React",
+      "category": "technical",
+      "proficiency": "expert"
+    },
+    {
+      "id": "3",
+      "name": "Leadership",
+      "category": "soft",
+      "proficiency": "advanced"
+    }
+  ],
+  "summary": "Results-driven professional with experienced software developer with 5+ years of expertise in full-stack development, specializing in react, node.js, and cloud technologies.. Demonstrated expertise in driving results and leading cross-functional teams.",
+  "created_at": "2025-06-26T10:54:45.677487",
+  "updated_at": "2025-06-26T10:54:45.677487"
+}
