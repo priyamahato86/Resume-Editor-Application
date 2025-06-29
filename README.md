@@ -213,9 +213,6 @@ resume-editor/
 4. Test thoroughly
 5. Submit a pull request
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Future Enhancements
 
